@@ -13,7 +13,7 @@ Abra seu navegador e acesse ```http://localhost:8000```. Você deverá ver a men
 Se você preferir usar um servidor web como Apache ou Nginx, siga as instruções de instalação e configuração específicas para o seu servidor.
 
 ## Projeto
-![Screenshot_1](https://github.com/amxanda/cardapio-php/assets/91753947/7dfcc5c7-890d-4057-8650-9c26f3cdc88d)
+![Screenshot_1](https://github.com/amxanda/cardapio-php/assets/91753947/265a0cfe-85d7-44ab-84a7-9f15dd1a0d01)
 
 <p align="">
   <img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=Finalizado&color=GREEN&style=for-the-badge"/>
